@@ -10,3 +10,4 @@ Several advantages of distant supervision:
 
 Therefore, this project employs distant supervision method with Wikipedia articles. In term of dataset for training, the system uses wikiner while for testing using wikigold. 
 
+The result is 67.8 %
